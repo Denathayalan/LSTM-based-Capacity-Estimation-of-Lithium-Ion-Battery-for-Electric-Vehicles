@@ -6,3 +6,5 @@ This project predicts the capacity of the Lithium Ion battery with LSTM based on
 [1] Choi, Yohwan, et al. "Machine Learning-Based Lithium-Ion Battery Capacity Estimation Exploiting Multi-Channel Charging Profiles." IEEE Access 7 (2019): 75143-75152.
 
 [2] B. Saha and K. Goebel (2007). "Battery Data Set", NASA Ames Prognostics Data Repository (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery), NASA Ames Research Center, Moffett Field, CA 
+
+[3] Denathayalan.R; Venkateshkumar M; Lakshman S A; Cheng Chin; AMRIT-Alternative Machine Reasoning and Integrative Techniques for prognostics model of electric vehicles, 9th International conference on Electrical Energy Systems(ICEES) 2023. 
